@@ -28,10 +28,11 @@ For the text descriptions, you are permitted to use them for academic research. 
 
 ## Citation
 ```text
-@ARTICLE{11516553,
+@article{li2026text,
+  title={Text-Visible/Infrared Person Retrieval: Attribute-Guided Feature Decoupling and Collaborative Alignment and A Unified Benchmark},
   author={Li, Chenglong and Xu, Ziheng and Deng, Yifei and Zheng, Aihua and Tang, Jin},
-  journal={IEEE Transactions on Image Processing}, 
-  title={Text-Visible/Infrared Person Retrieval: Attribute-Guided Feature Decoupling and Collaborative Alignment and A Unified Benchmark}, 
+  journal={IEEE Transactions on Image Processing},
   year={2026},
-  doi={10.1109/TIP.2026.3691012}}
+  publisher={IEEE}
+}
 ```
